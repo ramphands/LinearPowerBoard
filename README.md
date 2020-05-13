@@ -1,4 +1,4 @@
-# LinearPowerBoard
+# Linear Power Board
 A board to take the input of two 15v SMPS AC-DC PSUs and output a precise, regulated +/-12v DC.
 
 Using two 15v single-supply SMPSs*, the board combines the negative output of one supply with the positive output of the other supply, forming a reference ground.  The remaining positive output provides +15v to the board's negative rail and the remaining negative output provides -15v to the board's negative rail.
